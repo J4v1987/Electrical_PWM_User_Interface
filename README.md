@@ -1,4 +1,4 @@
-# PWM User Interface
+# Electrical PWM User Interface
 <h2>Arduino Nano: potentiometer-driven fast PWM implementation</h2>
 <p>A minimalist prototype to produce a low-voltage PWM signal and enable users to control its pulse width, based on Arduino Nano (Atmel ATMega328p).</p>
 
